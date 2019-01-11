@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Fast Hack"
+title: "Sprint"
 subheadline: "Course Phase 1"
-permalink: "/fast_hack/"
+permalink: "/sprint/"
 ---
 
 <!-- <div class="row">
@@ -21,7 +21,7 @@ permalink: "/fast_hack/"
 ## Key Dates
 
 
-**Fast Hack event**: Beginning Wednesday 27th January 2016  
+**Sprint event**: Beginning Wednesday 27th January 2016  
 **Team Presentations** ([Assignment GP1]({{ site.baseurl }}/assignment_gp1/)): Class time, Friday 29th January 2016  
 **Fast Hack individual report** ([Assignment R1]({{ site.baseurl }}/assignment_r1/)): due 16:00 Monday, 8th February 2016  
 
@@ -33,7 +33,7 @@ In this phase, you and your team will conduct a preliminary investigation on a s
 
 The Fast Hack has two main tasks for each team:
 
-1. Gather information about your chosen sub-theme and its current state at the University of Edinburgh.
+1. Gather information about your chosen sub-theme and its current state  in Edinburgh and at the University of Edinburgh.
 2. Identify specific problems/questions within your sub-theme, and generate ideas for how to address them.
 
 ### Task 1: Information-gathering
@@ -44,7 +44,7 @@ During the Fast Hack, you are a detective. Just as a detective must go to places
 
 Although we have identified a number of Food and Sustainability [sub-themes]({{ site.baseurl }}/project_overview),  each of these is still pretty broad. Your team will need to think about your interest and priorities within your chosen sub-theme. You will need to plan:
 
-* Where to go during the Fast Hack.
+* Where to go during the Fprint.
 * Who to talk to &mdash; may be teams, individuals, organisations.
 * What you want to find out (types of data to collect).
 * Practicalities: any equipment needed, staying in touch on the day, storing information, etc. 
@@ -53,7 +53,7 @@ At the same time as planning how to use your time, you should be ready to follow
 
 Some starting information for the Fast Hack is available here:
 
-* [Local Food and Sustainability initiatives]({{ site.baseurl }}/initiatives)
+* [Local Upcycling initiatives]({{ site.baseurl }}/initiatives)
 * [Existing datasets]({{ site.baseurl }}/datasets)
 * [Reading List]({{ site.baseurl }}/reading_list)
 
